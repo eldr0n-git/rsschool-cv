@@ -38,7 +38,8 @@ if (thispage == "main") {
 
 ## Work expirience
 
-I've worked in a transport company [Express Oriental](https://www.oriental.kz) as a developer.
+- 7 years working expirience in web-design company as designer.
+- I've worked in a transport company [Express Oriental](https://www.oriental.kz) as a developer.
 
 ## Education
 
