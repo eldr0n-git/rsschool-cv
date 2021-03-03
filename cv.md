@@ -32,7 +32,7 @@ if (thispage == "main") {
   setInterval(function () {
     pix = document.querySelector(getRandomId(1, 40));
     pix.setAttribute("opacity", getRandomAlpha());
-  }, 800);
+  }, 700);
 }
 ```
 
