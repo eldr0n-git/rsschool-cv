@@ -1,0 +1,11 @@
+.copyrights {
+  display: flex;
+}
+.copyrights__logo {
+  display: flex;
+  width: 300px;
+  height: 230px;
+  background-image: url("https://rs.school/images/rs_school_js.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
