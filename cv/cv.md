@@ -3,7 +3,7 @@
 ## Contacts
 
 - _email:_ microcuts@yandex.ru
-- _discord:_ DN˜MOH (@eldr0n-git)
+- _discord:_ DNMOH (@eldr0n-git)
 - _mobile phone:_ +77011821196
 
 ## Brief info
