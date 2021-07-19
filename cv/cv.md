@@ -35,3 +35,16 @@ if (thispage == "main") {
   }, 700);
 }
 ```
+
+## Work expirience
+
+- 7 years working expirience in web-design company as designer.
+- I've worked in a transport company [Express Oriental](https://www.oriental.kz) as a developer.
+
+## Education
+
+I have completed education at KarGTU at Information Technologies faculty.
+
+## English language
+
+I've studied English since school. Now level of my English is B1.
