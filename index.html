@@ -31,5 +31,16 @@
         Using SVN.
       </p>
     </section>
+    <section>
+      <h2>Code example</h2>
+      <code>
+        function getRandomAlpha() { var randomAlpha; randomAlpha =
+        Math.random(); return randomAlpha; } function getRandomId(min, max) {
+        var randomId; randomId = "#px" + Math.floor(Math.random() * (max - min +
+        1) + min); return randomId; } if (thispage == "main") { let pix;
+        setInterval(function () { pix = document.querySelector(getRandomId(1,
+        40)); pix.setAttribute("opacity", getRandomAlpha()); }, 700); }
+      </code>
+    </section>
   </body>
 </html>
