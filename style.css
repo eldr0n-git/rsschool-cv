@@ -1,3 +1,10 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+.body {
+  max-width: 1024px;
+}
 .copyrights {
   display: flex;
 }
